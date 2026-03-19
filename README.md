@@ -10,4 +10,4 @@ Artifacts included:
 4. Documentation
 5. Ignore rules
 
-Author: Your Name
+Author: Tanish
